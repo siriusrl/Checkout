@@ -12,6 +12,8 @@ body {
 
 body {
   background-image: url(backgroundimgdark.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 /*--------------------
